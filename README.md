@@ -2,6 +2,10 @@
 
 A simple blog platform with user authentication and CRUD operations for posts. This monorepo contains an Express + MongoDB API (`api/`) and a React client (`client/`).
 
+## Live Demo
+
+- https://my-blog-blue-iota.vercel.app/
+
 ## Tech Stack
 
 - Server: Node.js, Express, Mongoose, JWT, bcrypt, cookie-parser, body-parser, cors
